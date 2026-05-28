@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: gmt211_224523235
+Version: 0.0.1
+Summary: GMT 211 - Douglas Peucker Çizgi Basitleştirme Kütüphanesi
+Author-email: Adın Soyadın <eposta@adresin.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# GMT 211 - Douglas Peucker Algoritması
+
+Bu kütüphane, Hacettepe Üniversitesi Geomatik Mühendisliği GMT 211 dersi kapsamında geliştirilmiştir. Herhangi bir üçüncü parti kütüphane (numpy, scipy vb.) kullanmadan saf Python ile Douglas-Peucker çizgi basitleştirme algoritmasını uygular.
+
+## Kurulum
+
+```bash
+pip install --index-url [https://test.pypi.org/simple/](https://test.pypi.org/simple/) gmt211_224523235
